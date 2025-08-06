@@ -1,8 +1,11 @@
+# Still ongoing!
+
+
 # Goal
 Detect when there is user account exfiltrated, especially impacted phishing
 
 # Categorization
-These attempts are categorized as [Defense Evasion / Disabling Security Tools](https://attack.mitre.org/wiki/Technique/T1089).
+These attempts are categorized as [Resource Development](https://attack.mitre.org/techniques/T1586/).
 
 # Strategy Abstract
 The strategy will function as follows: 
